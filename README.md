@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" alt="Logo LMMA" width="300">
+</p>
 # 🔬 LMMA
 ## Laboratorio de Mecánica de Materiales Aplicados
 
